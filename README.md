@@ -5,6 +5,7 @@
 
 项目视频链接：
 哔哩哔哩：https://www.bilibili.com/video/BV1JU4y177s7
+Aistudio：https://aistudio.baidu.com/aistudio/projectdetail/2331262
 
 ## 1.1项目实现步骤
 
